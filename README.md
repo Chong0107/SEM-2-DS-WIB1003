@@ -13,7 +13,7 @@
 - [Intellij 2020.3](https://www.jetbrains.com/idea/download/#section=windows)
 - Choose the COMMUNITY version for the download of Intellij IDE
 
-## Advice for students who are studying FOP in UM
+## Advice for students who are studying Data Structure in UM
    - Do more research on the Java programming language from GOOGLE
    - Make sure all the tutorial must complete and do more exercises
    - Ask seniors or demo when you meet with problems on your programming code
